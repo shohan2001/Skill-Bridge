@@ -1,7 +1,7 @@
 import React from "react";
 import { Box, Button, Typography } from "@mui/material";
 // import { shadows } from "@mui/system";
-import Logo from "../assets/logo.PNG";
+import Logo from "../assets/logo2.PNG";
 import classes from "./cstyles.module.css";
 // import phone icon
 import PhoneEnabledIcon from "@mui/icons-material/PhoneEnabled";
